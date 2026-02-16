@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f4d898ac81ff3a5f8dfd7b46bc2b0971"
+	name: "Amorger2#f4d898ac"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

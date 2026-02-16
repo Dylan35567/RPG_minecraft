@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "091afbde1efc39d69ec3af33e116b96e"
+	name: "Dortodoloncio#091afbde"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

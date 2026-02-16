@@ -1,0 +1,17 @@
+{
+	id: "f4d898ac-81ff-3a5f-8dfd-7b46bc2b0971"
+	type: "player"
+	player_name: "Amorger2"
+	ranks: {
+		f4d898ac-81ff-3a5f-8dfd-7b46bc2b0971: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Amorger2"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

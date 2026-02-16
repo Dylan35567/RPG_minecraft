@@ -1,0 +1,17 @@
+{
+	id: "091afbde-1efc-39d6-9ec3-af33e116b96e"
+	type: "player"
+	player_name: "Dortodoloncio"
+	ranks: {
+		091afbde-1efc-39d6-9ec3-af33e116b96e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dortodoloncio"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
